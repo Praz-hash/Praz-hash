@@ -37,7 +37,7 @@ Or just send a carrier pigeon 🐦 (response time may vary).
 
 ### 📊 GitHub Stats
 
-![Praz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=radical)
+![Praz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praz-hash\&show_icons=true\&theme=radical)
 
 ---
 
